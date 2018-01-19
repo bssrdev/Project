@@ -4,7 +4,4 @@ These are my projects developed during my jouney of the FSWD-1 Course. These wer
 
 # Softwares Learnt
 
-1. Python
-2. HTML
-3. CSS
-4. Github
+`Python` `HTML` `CSS` `Github`
